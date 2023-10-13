@@ -4,8 +4,8 @@ import { Switches } from './Switches.jsx';
 
 export const App = () => {
   return (
-      <BaseLayout>
-          <Switches />
-      </BaseLayout>
+    <BaseLayout>
+      <Switches />
+    </BaseLayout>
   );
 };

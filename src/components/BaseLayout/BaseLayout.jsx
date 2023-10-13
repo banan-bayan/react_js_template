@@ -8,4 +8,4 @@ export function BaseLayout({ children }) {
       <footer>footer</footer>
     </div>
   );
-}
+};
